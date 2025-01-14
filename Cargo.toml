@@ -1,6 +1,12 @@
 [package]
 name = "arc_macro"
 version = "0.1.0"
+rust-version = "1.0.0"
 edition = "2021"
+license = "GPL-3.0"
+repository = "https://github.com/Jstone751/arc_macro"
+keywords = ["arc", "macro"]
+description = "A macro wrapper around Arc::new() for convenience"
+authors = ["Jstone751"]
+readme = "README.md"
 
-[dependencies]
